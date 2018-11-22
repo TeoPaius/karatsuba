@@ -1,0 +1,3 @@
+D:/faculta an3/paralele/karatsuba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/faculta an3/paralele/karatsuba/cmake-build-debug/CMakeFiles/karatsuba.dir
+D:/faculta an3/paralele/karatsuba/cmake-build-debug/CMakeFiles/edit_cache.dir
